@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["seenmyfate"]
-  s.date = "2011-09-14"
+  s.date = "2011-10-14"
   s.description = "A tiny gem that makes using Google Translate v2 API trivial"
   s.email = "seenmyfate@gmail.com"
   s.extra_rdoc_files = [
